@@ -1,0 +1,15 @@
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/bin/Debug/net6.0/console-teleprompter
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/bin/Debug/net6.0/console-teleprompter.deps.json
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/bin/Debug/net6.0/console-teleprompter.runtimeconfig.json
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/bin/Debug/net6.0/console-teleprompter.dll
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/bin/Debug/net6.0/ref/console-teleprompter.dll
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/bin/Debug/net6.0/console-teleprompter.pdb
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/obj/Debug/net6.0/console-teleprompter.csproj.AssemblyReference.cache
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/obj/Debug/net6.0/console-teleprompter.GeneratedMSBuildEditorConfig.editorconfig
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/obj/Debug/net6.0/console-teleprompter.AssemblyInfoInputs.cache
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/obj/Debug/net6.0/console-teleprompter.AssemblyInfo.cs
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/obj/Debug/net6.0/console-teleprompter.csproj.CoreCompileInputs.cache
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/obj/Debug/net6.0/console-teleprompter.dll
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/obj/Debug/net6.0/ref/console-teleprompter.dll
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/obj/Debug/net6.0/console-teleprompter.pdb
+/home/ben/csharp/samples/csharp/getting-started/console-teleprompter/obj/Debug/net6.0/console-teleprompter.genruntimeconfig.cache
